@@ -10,7 +10,7 @@ namespace ConsoleProva
     {
         static void Main(string[] args)
         {
-            const string TEXT = "Che schifo l'orario";
+            const string TEXT = "Xhali";
             Console.BackgroundColor = ConsoleColor.Magenta;
             for (int x = 0; x < int.MaxValue; x++)
             {

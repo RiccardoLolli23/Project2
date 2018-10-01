@@ -5,3 +5,10 @@ C:\Users\giacomo.ravaglia\Desktop\Project2\ConsoleProva\obj\Debug\ConsoleProva.c
 C:\Users\giacomo.ravaglia\Desktop\Project2\ConsoleProva\obj\Debug\ConsoleProva.csproj.CoreCompileInputs.cache
 C:\Users\giacomo.ravaglia\Desktop\Project2\ConsoleProva\obj\Debug\ConsoleProva.exe
 C:\Users\giacomo.ravaglia\Desktop\Project2\ConsoleProva\obj\Debug\ConsoleProva.pdb
+C:\Users\Riccardo.Lolli\source\repos\ConsoleProva\Project2\ConsoleProva\bin\Debug\ConsoleProva.exe.config
+C:\Users\Riccardo.Lolli\source\repos\ConsoleProva\Project2\ConsoleProva\bin\Debug\ConsoleProva.exe
+C:\Users\Riccardo.Lolli\source\repos\ConsoleProva\Project2\ConsoleProva\bin\Debug\ConsoleProva.pdb
+C:\Users\Riccardo.Lolli\source\repos\ConsoleProva\Project2\ConsoleProva\obj\Debug\ConsoleProva.csprojAssemblyReference.cache
+C:\Users\Riccardo.Lolli\source\repos\ConsoleProva\Project2\ConsoleProva\obj\Debug\ConsoleProva.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo.Lolli\source\repos\ConsoleProva\Project2\ConsoleProva\obj\Debug\ConsoleProva.exe
+C:\Users\Riccardo.Lolli\source\repos\ConsoleProva\Project2\ConsoleProva\obj\Debug\ConsoleProva.pdb
