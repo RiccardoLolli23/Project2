@@ -10,20 +10,21 @@ namespace ConsoleProva
     {
         static void Main(string[] args)
         {
+            const string TEXT = "Che schifo l'orario";
             Console.BackgroundColor = ConsoleColor.Magenta;
             for (int x = 0; x < int.MaxValue; x++)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.BackgroundColor = ConsoleColor.White;
-                Console.Write("Che schifo l'iti");
+                Console.Write(TEXT);
 
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.BackgroundColor = ConsoleColor.Red;
-                Console.Write("Che schifo l'iti");
+                Console.Write(TEXT);
 
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.BackgroundColor = ConsoleColor.Green;
-                Console.Write("Che schifo l'iti");
+                Console.Write(TEXT);
             }
         }
     }
